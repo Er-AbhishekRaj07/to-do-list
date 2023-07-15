@@ -2,7 +2,7 @@
 
 The Todo List Web Application is a simple and intuitive task management tool built with HTML, CSS, and JavaScript. It allows users to organize and track their daily tasks effectively.
 
-![Todo List Screenshot](screenshots/todo-list.png)
+![Todo List Screenshot](main.png)
 
 ## Features
 
