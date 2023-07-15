@@ -15,7 +15,7 @@ The Todo List Web Application is a simple and intuitive task management tool bui
 
 ## Getting Started
 
-To use the Todo List Web Application, simply open the `index.html` file in your web browser. No additional installations or dependencies are required.
+To use the Todo List Web Application, simply open the `to-do-list.html` file in your web browser. No additional installations or dependencies are required.
 
 ## Screenshots
 
@@ -23,15 +23,12 @@ You can find below some screenshots of the Todo List Web Application:
 
 ### Adding a Task
 
-![Add Task](screenshots/add-task.png)
+![Add Task](task.png)
 
 ### Editing a Task
 
-![Edit Task](screenshots/edit-task.png)
+![Edit Task](edit.png)
 
-### Completed Tasks
-
-![Completed Tasks](screenshots/completed-tasks.png)
 
 ## Contributing
 
